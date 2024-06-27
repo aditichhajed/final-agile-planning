@@ -6,7 +6,7 @@
 
 ## 🚀 Project Overview
 
-In this project, (Problem statement given - we develop a product catalog for an e-commerce website. This includes essential CRUD operations for products, features like product liking, cloud hosting, and automated deployments.) \ 
+In this project, (Problem statement given - we develop a product catalog for an e-commerce website. This includes essential CRUD operations for products, features like product liking, cloud hosting, and automated deployments.) <br>
 Expected Outcome - **To manage the project through Agile practices using GitHub Projects and Kanban board.**
 
 ---
