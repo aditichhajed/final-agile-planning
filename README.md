@@ -1,6 +1,5 @@
 # Agile Final Project
-
- This is my final submission and learnings for the **coursera honors project** as a part of the **Introduction to Agile Development and Scrum** certification course.
+This is my final submission and learnings for the **coursera honors project** as a part of the **Introduction to Agile Development and Scrum** certification course.
 
 ---
 
